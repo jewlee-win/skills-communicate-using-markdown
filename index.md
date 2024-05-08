@@ -5,3 +5,7 @@
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Do github skills first day
+- [ ] Do github skills first week
+- [ ] Work on specified automate workflows with github actions
